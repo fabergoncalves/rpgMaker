@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":75,"name":"Fabricio","nickname":"Faber","note":"","profile":"Fabricio vem com toda sua destreza tomar na peida com\nclareza e excelencia, pronto para enfrentar o mal."},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":6,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":75,"name":"Felipe","nickname":"Fe","note":"","profile":""}
+{"id":1,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":75,"name":"Fabricio","nickname":"Faber","note":"<Unlock Class: 5>\n<Profile Text>\nProfile detalhado aqui\n</Profile Text>","profile":"Fabricio vem com toda sua destreza tomar na peida com \nclareza e excelencia, pronto para enfrentar o mal."},
+{"id":2,"battlerName":"Actor4_2","characterIndex":1,"characterName":"Actor4","classId":6,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":75,"name":"Felipe","nickname":"Fe","note":"<Unlock Class: 6>","profile":""}
 ]
