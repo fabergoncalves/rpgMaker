@@ -1,6 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":2,"expanded":false,"name":"LVL_INTRO","order":2,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":3,"expanded":false,"name":"LVL_MAIN","order":3,"parentId":0,"scrollX":3238.6666666666665,"scrollY":1929.3333333333333}
+{"id":2,"expanded":false,"name":"LVL_INTRO","order":2,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":3,"expanded":true,"name":"LVL_MAIN_0","order":3,"parentId":0,"scrollX":1622,"scrollY":1462},
+{"id":4,"expanded":false,"name":"LVL_MAIN_1","order":4,"parentId":3,"scrollX":2698,"scrollY":1374},
+{"id":5,"expanded":true,"name":"IN_LVL_MAIN_0","order":5,"parentId":3,"scrollX":971,"scrollY":967}
 ]
